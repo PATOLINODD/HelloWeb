@@ -1,0 +1,22 @@
+form{
+    margin: auto;
+    padding: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.cadastro{
+    display: none;
+}
+div{
+    margin: auto;
+    padding: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    margin: 20px auto 45px; 
+}

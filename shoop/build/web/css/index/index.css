@@ -1,0 +1,11 @@
+
+*{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+}
+body{
+    background: var(--cor-fundo);
+    color: var(--cor-texto);
+    font-family: calibri;
+}
